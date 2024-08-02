@@ -1,9 +1,7 @@
-"use client";
-
 import React from "react";
 
 const page = () => {
-    return <div>Hello page</div>;
+  return <div>trang chủ</div>;
 };
 
 export default page;
